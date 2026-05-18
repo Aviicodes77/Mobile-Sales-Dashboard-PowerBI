@@ -69,6 +69,7 @@ An interactive 3-page Power BI dashboard analyzing mobile phone sales across Ind
 
 ## 👤 Author
 Avnish Choudhary 
+
 Aspiring Data Analyst | Power BI | Excel | SQL  
 
 
