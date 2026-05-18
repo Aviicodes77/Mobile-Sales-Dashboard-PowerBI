@@ -57,7 +57,7 @@ An interactive 3-page Power BI dashboard analyzing mobile phone sales across Ind
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](MOBILE_SALES__DASHBOARD.png)
+![Main Dashboard](MOBILE_SALES_DASHBOARD.png)
 
 ### MTD Report
 ![MTD Report](MOBILE_SALES_MTD_REPORT.png)
